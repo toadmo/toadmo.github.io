@@ -1,3 +1,9 @@
+---
+layout: post
+title: [Shebang] - Easy - Bash
+subtitle: AllesCTF 2020
+thumbnail-img: /assets/img/rocks.png
+---
 # Shellbags - 300 Points - Forensics
 
 ## MetaCTF 2020
