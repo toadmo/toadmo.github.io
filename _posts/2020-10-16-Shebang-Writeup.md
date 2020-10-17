@@ -16,7 +16,7 @@ After doing some more digging through the source code, we realized that the prob
 
 We finally realized that the flag descriptors were located in dev, which we could access with the d in the given script. For this, we sent the rest of dev and a newline character along with cat to try to open the flag file. Unfortunately, we were unable to cat the file, since once the bash was enabled, privileges for the remote user were set to the lowest setting, disallowing us from reading the file. The workaround was to map to the file directory 9. The <& points the file descriptor to a file name, allowing us to cat the flag file and find the flag.
 
-## Final Command
+## Final Command:
 
 ```
 python -c "print('ev/fd/3\ncat <&9')" | ncat --ssl 7b000000ad865f5f197fef9f.challenges.broker2.allesctf.net 1337
