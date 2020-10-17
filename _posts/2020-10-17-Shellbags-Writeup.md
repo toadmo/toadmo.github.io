@@ -1,7 +1,6 @@
 # Shellbags - 300 Points - Forensics
-## MetaCTF 2020
 
- ---
+## MetaCTF 2020
 
 ## Solve
 ```
