@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [Shebang] - Easy - Bash
-subtitle: AllesCTF 2020
+title: [Holiday Workout]
+subtitle: Hivestorm Practice
 thumbnail-img: /assets/img/patrick_christmas.gif
 ---
 
