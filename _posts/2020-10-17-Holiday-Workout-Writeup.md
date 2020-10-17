@@ -1,9 +1,11 @@
 # Holiday Workout Writeup
 
 ## Task
+
 Familiarization with flask and python webservers.
 
 ## Design Specifications
+
 ```
 The app must serve an initial page with your name on it at the home directory. It will then utilize RESTful API Design to act as a user database through serving the following pages.
 
@@ -34,6 +36,7 @@ Create a page /admin with a fake flag which requires the password, secretpasswor
 ```
 
 ## Solve
+
 ```python
 from flask import Flask
 from flask import abort
@@ -152,4 +155,5 @@ app.run(debug=True)
 ```
 
 ## Extra Flask Notes
+
 Read More [Here](/assets/references/flask_guide.md)

@@ -3,6 +3,7 @@
 ## AllesCTF 2020
 
 ## Process:
+
 The start of this challenge was analyze the python source code to understand what the program was doing. The program initialized with the characters #!d, which looked like a shebang. Normally, however, a shebang would be in the form of #!bin/sh or #!bin/bash, which would tell the file or user that the file is to be run in either a shell or bash. Unfortunately, the challenge provides an immutable string to start out the shebang, which included a d. 
 
 This d did not fit into either of the shebang combinations we were expecting, so our first thought was to bypass the d by sending a backspace character. This did not work, as the backspace character did not properly register as a backspace until after it was sent to the challenge server to be run. 
@@ -16,6 +17,7 @@ After doing some more digging through the source code, we realized that the prob
 We finally realized that the flag descriptors were located in dev, which we could access with the d in the given script. For this, we sent the rest of dev and a newline character along with cat to try to open the flag file. Unfortunately, we were unable to cat the file, since once the bash was enabled, privileges for the remote user were set to the lowest setting, disallowing us from reading the file. The workaround was to map to the file directory 9. The <& points the file descriptor to a file name, allowing us to cat the flag file and find the flag.
 
 ## Final Command
+
 ```
 python -c "print('ev/fd/3\ncat <&9')" | ncat --ssl 7b000000ad865f5f197fef9f.challenges.broker2.allesctf.net 1337
 ```
