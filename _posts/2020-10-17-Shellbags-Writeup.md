@@ -1,9 +1,10 @@
 ---
 layout: post
-title: [Shebang] - Easy - Bash
-subtitle: AllesCTF 2020
+title: [Shellbags - 300 Points - Forensics]
+subtitle: MetaCTF 2020
 thumbnail-img: /assets/img/rocks.jpg
 ---
+
 # Shellbags - 300 Points - Forensics
 
 ## MetaCTF 2020
