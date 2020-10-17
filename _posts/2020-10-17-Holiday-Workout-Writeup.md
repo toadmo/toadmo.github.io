@@ -1,3 +1,10 @@
+---
+layout: post
+title: [Shebang] - Easy - Bash
+subtitle: AllesCTF 2020
+thumbnail-img: /assets/img/patrick_christmas.gif
+---
+
 # Holiday Workout Writeup
 
 ## Task:
