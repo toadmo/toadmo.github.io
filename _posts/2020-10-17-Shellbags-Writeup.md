@@ -5,7 +5,8 @@
 
 ## Solve
 ```
-A password file is hidden in a folder maze, and we need to find it. Luckily, the user recently accessed the file, and we are given a UsrClass.dat file.
+A password file is hidden in a folder maze, and we need to find it. 
+Luckily, the user recently accessed the file, and we are given a UsrClass.dat file.
 ```
 Trying to cat the files and using grep to look for keywords did not work due to the text being alphanumeric. Parsing through all of the outputted data was also impractical due to the sheer amount of text.
 
