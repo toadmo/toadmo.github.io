@@ -151,4 +151,4 @@ app.run(debug=True)
 ```
 
 ## Extra Flask Notes
-Read More [Here](/assets/references/flask_guide)
+Read More [Here](/assets/references/flask_guide.md)
