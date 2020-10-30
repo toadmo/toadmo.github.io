@@ -2,7 +2,7 @@
 layout: post
 title: [Passage - Linux]
 subtitle: HackTheBox
-thumbnail-img: /assets/img/rocks.jpg
+thumbnail-img: /assets/img/box.jpg
 ---
 
 # Passage - Linux - 10.10.10.206
