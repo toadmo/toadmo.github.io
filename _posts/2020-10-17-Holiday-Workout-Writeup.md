@@ -1,3 +1,10 @@
+---
+layout: post
+title: [Holiday Workout]
+subtitle: Hivestorm Practice
+thumbnail-img: /assets/img/patrick_christmas.gif
+---
+
 # Holiday Workout Writeup
 
 ## Task:
