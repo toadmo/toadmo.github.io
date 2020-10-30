@@ -1,3 +1,10 @@
+---
+layout: post
+title: [Passage - Linux]
+subtitle: HackTheBox
+thumbnail-img: /assets/img/rocks.jpg
+---
+
 # Passage - Linux - 10.10.10.206
 
 ## Enumeration:
