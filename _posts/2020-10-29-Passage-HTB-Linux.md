@@ -3,6 +3,7 @@ layout: post
 title: [Passage - Linux]
 subtitle: HackTheBox
 thumbnail-img: /assets/img/box.jpg
+tags: [red]
 ---
 
 # Passage - Linux - 10.10.10.206
