@@ -9,7 +9,7 @@
 - kill -9 pid
 
 ## Requests With Curl:
- - POST: curl -H "Content-Type: application/json" -d '{"name":"dog","role":"pet","password":"cool"}' http://localhost:5000/users
+- POST: curl -H "Content-Type: application/json" -d '{"name":"dog","role":"pet","password":"cool"}' http://localhost:5000/users
     - -d implies POST
 - PUT: curl -H 'Content-Type: application/json' -X PUT -d '{"name":"cat"}' http://localhost:5000/users
 
