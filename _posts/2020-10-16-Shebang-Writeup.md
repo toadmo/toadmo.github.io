@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Shebang - Easy - Bash]
+title: [Shebang - Bash]
 subtitle: AllesCTF 2020
 thumbnail-img: /assets/img/shebang.png
 ---
