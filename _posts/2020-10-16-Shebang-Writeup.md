@@ -2,8 +2,10 @@
 layout: post
 title: [Shebang - Bash]
 subtitle: AllesCTF 2020
-thumbnail-img: /assets/img/shebang.png
+image: /assets/img/shebang.png
+tags: [bash]
 ---
+
 
 # Shebang - Easy - Bash
 
