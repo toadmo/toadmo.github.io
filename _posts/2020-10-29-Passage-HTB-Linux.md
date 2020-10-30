@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/box.jpg
 tags: [red]
 ---
 
-teatsatdaffffffffffffffffffffffdafsfafsdafasfdsteatsatdaffffffffffffffffffffffdafsfafsdafasfdsteatsatdaffffffffffffffffffffffdafsfafsdafasfdsteatsatdaffffffffffffffffffffffdafsfafsdafasfdsteatsatdaffffffffffffffffffffffdafsfafsdafasfdsteatsatdaffffffffffffffffffffffdafsfafsdafasfdsteatsatdaffffffffffffffffffffffdafsfafsdafasfds
+This is my solution to the HackTheBox Passage Linux box.
 
 # Passage - Linux - 10.10.10.206
 
