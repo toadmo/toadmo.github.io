@@ -2,7 +2,8 @@
 layout: post
 title: [Holiday Workout]
 subtitle: Hivestorm Practice
-thumbnail-img: /assets/img/patrick_christmas.gif
+image: /assets/img/patrick_christmas.gif
+tags: [blue]
 ---
 
 # Holiday Workout Writeup
