@@ -2,7 +2,7 @@
 layout: post
 title: [Shebang - Bash]
 subtitle: AllesCTF 2020
-image: /assets/img/shebang.png
+thumbnail-img: /assets/img/shebang.png
 tags: [bash]
 ---
 
