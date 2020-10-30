@@ -6,6 +6,8 @@ thumbnail-img: /assets/img/patrick_christmas.gif
 tags: [blue]
 ---
 
+This is my attempt at building a basic python Flask server.
+
 # Holiday Workout Writeup
 
 ## Task:
