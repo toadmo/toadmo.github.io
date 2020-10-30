@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Shellbags - 300 Points - Forensics]
+title: [Shellbags - Forensics]
 subtitle: MetaCTF 2020
 thumbnail-img: /assets/img/rocks.jpg
 ---
