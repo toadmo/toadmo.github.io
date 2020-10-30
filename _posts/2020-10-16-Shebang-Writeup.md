@@ -6,6 +6,7 @@ image: /assets/img/shebang.png
 tags: [bash]
 ---
 
+This is my solution to the AllesCTF Shebang Bash problem.
 
 # Shebang - Easy - Bash
 
