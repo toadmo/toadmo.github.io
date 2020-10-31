@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/patrick_christmas.gif
 tags: [blue]
 ---
 
-This is my attempt at building a basic python Flask server.
+This is my attempt at building a basic python Flask server and working with RESTful API design.
 
 # Holiday Workout Writeup
 
