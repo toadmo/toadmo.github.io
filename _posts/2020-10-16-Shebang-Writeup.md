@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/shebang.png
 tags: [bash]
 ---
 
-This is my solution to the AllesCTF Shebang Bash problem.
+This is my solution to the AllesCTF Shebang Bash problem, my first competition CTF writeup!
 
 # Shebang - Easy - Bash
 
