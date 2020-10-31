@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/rocks.jpg
 tags: [forensics]
 ---
 
-This is my solution to the MetaCTF Shellbags Forensics problem.
+This is my solution to the MetaCTF Shellbags Forensics problem, using ShellBagsExplorer
 
 # Shellbags - 300 Points - Forensics
 
