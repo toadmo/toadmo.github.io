@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/box.jpg
 tags: [red]
 ---
 
-This is my solution to the HackTheBox Passage Linux box.
+This is my solution to the HackTheBox Passage Linux box, my first HTB writeup!
 
 # Passage - Linux - 10.10.10.206
 
