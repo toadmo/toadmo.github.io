@@ -2,7 +2,7 @@
 layout: post
 title: [Holiday Workout]
 subtitle: Hivestorm Practice
-thumbnail-img: /assets/img/patrick_christmas.gif
+thumbnail-img: /assets/img/patrick_christmas.jpg
 tags: [blue]
 ---
 
