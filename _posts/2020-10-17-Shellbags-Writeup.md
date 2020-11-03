@@ -1,9 +1,12 @@
 ---
 layout: post
-title: [Shellbags - 300 Points - Forensics]
+title: [Shellbags - Forensics]
 subtitle: MetaCTF 2020
 thumbnail-img: /assets/img/rocks.jpg
+tags: [forensics]
 ---
+
+This is my solution to the MetaCTF Shellbags Forensics problem, using ShellBagsExplorer
 
 # Shellbags - 300 Points - Forensics
 
