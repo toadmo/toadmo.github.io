@@ -2,7 +2,7 @@
 layout: post
 title: [Passage - Linux]
 subtitle: HackTheBox
-thumbnail-img: /assets/img/box.jpg
+thumbnail-img: /assets/img/box_new.jpg
 tags: [red]
 ---
 

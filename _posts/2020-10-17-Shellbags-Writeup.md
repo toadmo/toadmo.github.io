@@ -2,7 +2,7 @@
 layout: post
 title: [Shellbags - Forensics]
 subtitle: MetaCTF 2020
-thumbnail-img: /assets/img/rocks.jpg
+thumbnail-img: /assets/img/rocks_new.jpg
 tags: [forensics]
 ---
 
