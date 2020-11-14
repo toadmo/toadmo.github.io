@@ -2,7 +2,7 @@
 layout: post
 title: [Academy - Linux]
 subtitle: HackTheBox
-thumbnail-img: /assets/img/box.jpg
+thumbnail-img: /assets/img/academy.jpg
 tags: [red]
 ---
 
