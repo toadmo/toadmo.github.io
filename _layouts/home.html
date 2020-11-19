@@ -66,6 +66,10 @@ layout: page
     </div>
     {% endif %}
 
+    <br>
+    <br>
+    <br>
+    
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
