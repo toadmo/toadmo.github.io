@@ -2,7 +2,7 @@
 layout: post
 title: [Delivery - Linux]
 subtitle: HackTheBox
-thumbnail-img: /assets/img/box_new.jpg
+thumbnail-img: /assets/img/deliveryhtb.jpg
 tags: [red]
 ---
 
