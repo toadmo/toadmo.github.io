@@ -46,7 +46,7 @@ To do so, we use burpsuite, finding the original post request that we used to lo
 Here, we see the following information:
 
 
-![admin login page](./pictures/academy1.png)
+![admin login page](./assets/img/admin_page_academy.png)
 
 
 Let's check out http://dev-staging-01.academy.htb. Again we add this host to `/etc/hosts`, and we open the site. It gives us some good information:
