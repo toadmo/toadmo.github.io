@@ -2,7 +2,7 @@
 layout: post
 title: [CPTC Writeup]
 subtitle: November 07, 2020
-thumbnail-img: /assets/img/patrick_christmas.jpg
+thumbnail-img: /assets/img/spongebob_dam.jpg
 tags: [red]
 ---
 
@@ -10,8 +10,8 @@ Attached is my team's writeup for the Collegiate Penetration Testing Competition
 
 # The Writeup
 
-<object data="/assets/pdf/CPTC2020" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/pdf/CPTC2020">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/CPTC_Report" type="application/pdf" width="2000px" height="2000px">
+    <embed src="/assets/pdf/CPTC_Report">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/CPTC_Report">Download PDF</a>.</p>
     </embed>
 </object>
